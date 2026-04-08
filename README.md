@@ -1,5 +1,10 @@
-#
-© ranstech
+# WhatsApp Baileys
+© Copyright Ranstech Crasher
+
+<p align="center">
+  <img src="https://files.catbox.moe/frftf7.jpg" alt="Thumbnail" />
+</p>
+
 ## Tentang Ranstech
 
 Selamat datang di repositori **Ranstech**! Ini adalah jantung visual dari ekosistem Ranstech Project—tempat di mana **desain intuitif dan pengembangan cepat bertemu**. Kami menghadirkan koleksi lengkap aset antarmuka pengguna (UI) yang dirancang dengan presisi untuk mempercepat pengembangan aplikasi Anda.
